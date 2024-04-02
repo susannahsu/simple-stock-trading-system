@@ -1,4 +1,4 @@
-# team08_2024
+# Serial Baseline Simple Stock Trading System
 
 ## Serial Baseline
 
